@@ -16,4 +16,4 @@ Convert string representations of integers into any base between 2 and 62.Assume
 ## Changelog
 ### [1.0] - 2020-10-09
 #### Features
-* convert string representations of integers into any base between 2 and 62.
+* Convert string representations of integers into any base between 2 and 62.
