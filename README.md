@@ -1,5 +1,5 @@
 # number-base-converter
-Assumes a reasonably intuitive sequence of the letters 'a' through 'Z' to represent "digits" greater than 9.For example: a -> 10, b -> 11, and Z -> 61.
+Convert string representations of integers into any base between 2 and 62.Assumes a reasonably intuitive sequence of the letters 'a' through 'Z' to represent "digits" greater than 9.For example: a -> 10, b -> 11, and Z -> 61.
 ## Function List
 1. converter():convert string representations of integers into any base between 2 and 62
 1. decimalConvert():convert an integer from any base to decimal
